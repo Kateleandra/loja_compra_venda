@@ -1,4 +1,4 @@
-# loja_campra_venda
+# loja_compra_venda
 
 ## Project setup
 ```
